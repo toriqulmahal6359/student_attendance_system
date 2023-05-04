@@ -1,0 +1,10 @@
+footer {
+    margin-top: 10vmax;
+    padding: 2vmax;
+    background: -webkit-linear-gradient(left, #0e251f, #21a0ab);
+    background: linear-gradient(to right, #23555c, #21a0ab);
+    color: white;
+    text-align: center;
+    /* display: flex; */
+    /* align-items: center; */
+}
